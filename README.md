@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on omycode.dev which is a IDE plugin for intelliJ to parse grammar for source language (Java) using ANTLR and use it to determine the runtime complexity of a subroutine.
-
 <!--
 **mehuled/mehuled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Open and extremely excited for oppotunities to work at the forefront of technical advancement.
+
+Please reach out to me if you're hiring for something similar. Here's my [resume](https://s3.amazonaws.com/com.dflipflop/resume/Mehul-Sharma.pdf)
+
 <!--
 **mehuled/mehuled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

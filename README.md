@@ -1,20 +1,27 @@
-### Hi there 👋
+# dflipflop.com
 
-I am open and extremely excited for oppotunities to work at the forefront of technical advancement.
+Hey there! I am ***Mehul Sharma,** w*elcome to my home on the Internet.
 
-Please reach out to me if you're hiring for something similar. Here's my [resume](https://s3.amazonaws.com/com.dflipflop/resume/Mehul-Sharma.pdf)
+🕸️ Quick Links
 
-<!--
-**mehuled/mehuled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[resume](http://s3.amazonaws.com/com.dflipflop/resume/Mehu…)
 
-Here are some ideas to get you started:
+[twitter](http://twitter.com/mexhulsharma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin](https://www.linkedin.com/in/mehul-sharma-454b4210a/)
+
+[github](https://github.com/mehuled)
+
+I am very optimistic about the possibility of all of our existence and feel extremely indebted to do something very meaningful with our lives.
+
+I believe that at the core of our technological advancements lies the years of research done by really brilliant minds in academia and is brought to fruition by some incredibly persistent and passionate entrepreneurs.
+
+However I still believe that we need to optimise our academia and build more bridges between our academia and the industries, we need to make research papers more accessible and easily comprehensible for the masses and have more entrepreneurs who are willing to build around the work in academia.
+
+Here's one tweet thread that I believe and relate to and working towards more than anything else.
+
+[https://twitter.com/sama/status/1297912739206242306](https://twitter.com/sama/status/1297912739206242306)
+
+Please feel free to reach out to me for a chat on Twitter. 
+
+✉️  DMs always open.

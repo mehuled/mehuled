@@ -2,7 +2,7 @@ Hey there! I am ***Mehul Sharma,*** welcome to my homepage on Github.
 
 🕸️ Quick Links
 
-[resume](http://s3.amazonaws.com/com.dflipflop/resume/Mehu…)
+[resume](http://s3.amazonaws.com/com.dflipflop/resume/Mehul-Sharma.pdf)
 
 [twitter](http://twitter.com/mexhulsharma)
 

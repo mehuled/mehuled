@@ -2,11 +2,9 @@ Hey there! I am ***Mehul Sharma,*** welcome to my homepage on Github.
 
 🕸️ Quick Links
 
-[twitter](http://twitter.com/mexhulsharma)
+[twitter](https://twitter.com/mehulsharma__)
 
 [linkedin](https://www.linkedin.com/in/mehul-sharma-454b4210a/)
-
-[home](https://www.dflipflop.com)
 
 Please checkout my repositories while you are here! _It isn't much but it's honest work._
 
